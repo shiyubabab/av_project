@@ -1,0 +1,10 @@
+Log file created at: 2025/06/16 10:33:12
+Running on machine: lavm-rq7oybm0hm
+Log line format: [IWEF]mmdd hh:mm:ss.uuuuuu threadid file:line] msg
+I0616 10:33:12.064322 1166477 SipLocalConfig.cpp:104] localip:192.168.23.135,localport:11300,sipid:10000000002000000001,sipip:127.0.1,sipport:5061,sipRealm:1000000000
+I0616 10:33:12.064596 1166477 SipLocalConfig.cpp:107] num:1
+I0616 10:33:12.064742 1166477 SipLocalConfig.cpp:120] subNodeIp:127.0.1,subNodePort:7101,subNodePoto:0,subNodeAuth:1
+I0616 10:33:12.064774 1166477 main.cpp:79] Local Ip: 192.168.23.135
+I0616 10:33:12.064994 1166477 main.cpp:87] create thread pid:140130349262400
+I0616 10:33:12.065016 1166477 main.cpp:88] main thread pid:140130349266752
+I0616 10:33:12.065061 1166478 main.cpp:61] current thread id: 140130349262400

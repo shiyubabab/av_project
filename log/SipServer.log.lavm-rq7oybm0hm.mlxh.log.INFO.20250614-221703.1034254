@@ -1,0 +1,4 @@
+Log file created at: 2025/06/14 22:17:03
+Running on machine: lavm-rq7oybm0hm
+Log line format: [IWEF]mmdd hh:mm:ss.uuuuuu threadid file:line] msg
+I0614 22:17:03.466913 1034254 SipLocalConfig.cpp:104] localip:192.168.23.135,localport:11300,sipid:10000000002000000001,sipip:127.0.1,sipport:5061,sipRealm1000000000

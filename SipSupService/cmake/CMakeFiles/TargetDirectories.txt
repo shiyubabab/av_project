@@ -1,0 +1,3 @@
+/home/mlxh/av_project/SipSupService/cmake/CMakeFiles/SipSupService.dir
+/home/mlxh/av_project/SipSupService/cmake/CMakeFiles/edit_cache.dir
+/home/mlxh/av_project/SipSupService/cmake/CMakeFiles/rebuild_cache.dir
