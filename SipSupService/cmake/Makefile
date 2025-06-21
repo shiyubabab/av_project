@@ -175,6 +175,21 @@ home/mlxh/av_project/SipSupService/src/GlobalCtl.s:
 .PHONY : home/mlxh/av_project/SipSupService/src/GlobalCtl.s
 
 # target to build an object file
+home/mlxh/av_project/SipSupService/src/SipCore.o:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/SipSupService.dir/build.make CMakeFiles/SipSupService.dir/home/mlxh/av_project/SipSupService/src/SipCore.o
+.PHONY : home/mlxh/av_project/SipSupService/src/SipCore.o
+
+# target to preprocess a source file
+home/mlxh/av_project/SipSupService/src/SipCore.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/SipSupService.dir/build.make CMakeFiles/SipSupService.dir/home/mlxh/av_project/SipSupService/src/SipCore.i
+.PHONY : home/mlxh/av_project/SipSupService/src/SipCore.i
+
+# target to generate assembly for a file
+home/mlxh/av_project/SipSupService/src/SipCore.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/SipSupService.dir/build.make CMakeFiles/SipSupService.dir/home/mlxh/av_project/SipSupService/src/SipCore.s
+.PHONY : home/mlxh/av_project/SipSupService/src/SipCore.s
+
+# target to build an object file
 home/mlxh/av_project/SipSupService/src/SipLocalConfig.o:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/SipSupService.dir/build.make CMakeFiles/SipSupService.dir/home/mlxh/av_project/SipSupService/src/SipLocalConfig.o
 .PHONY : home/mlxh/av_project/SipSupService/src/SipLocalConfig.o
@@ -237,6 +252,9 @@ help:
 	@echo "... home/mlxh/av_project/SipSupService/src/GlobalCtl.o"
 	@echo "... home/mlxh/av_project/SipSupService/src/GlobalCtl.i"
 	@echo "... home/mlxh/av_project/SipSupService/src/GlobalCtl.s"
+	@echo "... home/mlxh/av_project/SipSupService/src/SipCore.o"
+	@echo "... home/mlxh/av_project/SipSupService/src/SipCore.i"
+	@echo "... home/mlxh/av_project/SipSupService/src/SipCore.s"
 	@echo "... home/mlxh/av_project/SipSupService/src/SipLocalConfig.o"
 	@echo "... home/mlxh/av_project/SipSupService/src/SipLocalConfig.i"
 	@echo "... home/mlxh/av_project/SipSupService/src/SipLocalConfig.s"

@@ -5,6 +5,8 @@ file(REMOVE_RECURSE
   "CMakeFiles/SipSupService.dir/home/mlxh/av_project/SipSupService/src/ECThread.o.d"
   "CMakeFiles/SipSupService.dir/home/mlxh/av_project/SipSupService/src/GlobalCtl.o"
   "CMakeFiles/SipSupService.dir/home/mlxh/av_project/SipSupService/src/GlobalCtl.o.d"
+  "CMakeFiles/SipSupService.dir/home/mlxh/av_project/SipSupService/src/SipCore.o"
+  "CMakeFiles/SipSupService.dir/home/mlxh/av_project/SipSupService/src/SipCore.o.d"
   "CMakeFiles/SipSupService.dir/home/mlxh/av_project/SipSupService/src/SipLocalConfig.o"
   "CMakeFiles/SipSupService.dir/home/mlxh/av_project/SipSupService/src/SipLocalConfig.o.d"
   "CMakeFiles/SipSupService.dir/home/mlxh/av_project/SipSupService/src/ThreadPool.o"
