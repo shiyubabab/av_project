@@ -21,5 +21,9 @@ bool GlobalCtl::init(void *param){
 	if(!gConfig){
 		return false;
 	}
+	if(!gThPool){
+		gThPool = new ThreadPool;
+		gThPool -> createThreadPool(10);
+	}
 	return true;
 }

@@ -8,12 +8,14 @@
 #define _GLOBALCTL_H
 #include "Common.h"
 #include "SipLocalConfig.h"
+#include "ThreadPool.h"
 
 class GlobalCtl{
 	public:
 		static GlobalCtl* instance();
 		bool init(void *param);
 		SipLocalConfig *gConfig;
+		ThreadPool* gThPool = NULL;
 	private:
 		GlobalCtl(void){}
 		~GlobalCtl(void);

@@ -190,6 +190,21 @@ home/mlxh/av_project/SipSupService/src/SipLocalConfig.s:
 .PHONY : home/mlxh/av_project/SipSupService/src/SipLocalConfig.s
 
 # target to build an object file
+home/mlxh/av_project/SipSupService/src/ThreadPool.o:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/SipSupService.dir/build.make CMakeFiles/SipSupService.dir/home/mlxh/av_project/SipSupService/src/ThreadPool.o
+.PHONY : home/mlxh/av_project/SipSupService/src/ThreadPool.o
+
+# target to preprocess a source file
+home/mlxh/av_project/SipSupService/src/ThreadPool.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/SipSupService.dir/build.make CMakeFiles/SipSupService.dir/home/mlxh/av_project/SipSupService/src/ThreadPool.i
+.PHONY : home/mlxh/av_project/SipSupService/src/ThreadPool.i
+
+# target to generate assembly for a file
+home/mlxh/av_project/SipSupService/src/ThreadPool.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/SipSupService.dir/build.make CMakeFiles/SipSupService.dir/home/mlxh/av_project/SipSupService/src/ThreadPool.s
+.PHONY : home/mlxh/av_project/SipSupService/src/ThreadPool.s
+
+# target to build an object file
 home/mlxh/av_project/SipSupService/src/main.o:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/SipSupService.dir/build.make CMakeFiles/SipSupService.dir/home/mlxh/av_project/SipSupService/src/main.o
 .PHONY : home/mlxh/av_project/SipSupService/src/main.o
@@ -225,6 +240,9 @@ help:
 	@echo "... home/mlxh/av_project/SipSupService/src/SipLocalConfig.o"
 	@echo "... home/mlxh/av_project/SipSupService/src/SipLocalConfig.i"
 	@echo "... home/mlxh/av_project/SipSupService/src/SipLocalConfig.s"
+	@echo "... home/mlxh/av_project/SipSupService/src/ThreadPool.o"
+	@echo "... home/mlxh/av_project/SipSupService/src/ThreadPool.i"
+	@echo "... home/mlxh/av_project/SipSupService/src/ThreadPool.s"
 	@echo "... home/mlxh/av_project/SipSupService/src/main.o"
 	@echo "... home/mlxh/av_project/SipSupService/src/main.i"
 	@echo "... home/mlxh/av_project/SipSupService/src/main.s"

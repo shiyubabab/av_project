@@ -12,7 +12,8 @@
 #define SIP_SECTION "sipserver"
 
 static const string keyLocalIp = "local_ip";
-static const string keyLocalPort = "local_port"; static const string keySipId = "sip_id";
+static const string keyLocalPort = "local_port"; 
+static const string keySipId = "sip_id";
 static const string keySipIp = "sip_ip";
 static const string keySipPort = "sip_port";
 static const string keySipRealm = "sip_realm";
