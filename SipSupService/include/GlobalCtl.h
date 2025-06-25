@@ -9,6 +9,7 @@
 #include "Common.h"
 #include "SipLocalConfig.h"
 #include "ThreadPool.h"
+#include "SipCore.h"
 
 class GlobalCtl{
 	public:
@@ -16,6 +17,7 @@ class GlobalCtl{
 		bool init(void *param);
 		SipLocalConfig *gConfig;
 		ThreadPool* gThPool = NULL;
+		SipCore* gSipServer = NULL;
 	private:
 		GlobalCtl(void){}
 		~GlobalCtl(void);

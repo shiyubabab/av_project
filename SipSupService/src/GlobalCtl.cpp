@@ -25,5 +25,9 @@ bool GlobalCtl::init(void *param){
 		gThPool = new ThreadPool;
 		gThPool -> createThreadPool(10);
 	}
+	if(!gSipServer){
+		gSipServer = new SipCore();
+	}
+	gSipServer -> InitSip(gConfig->sipPort());
 	return true;
 }

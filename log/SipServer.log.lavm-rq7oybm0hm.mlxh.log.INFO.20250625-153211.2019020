@@ -1,0 +1,20 @@
+Log file created at: 2025/06/25 15:32:11
+Running on machine: lavm-rq7oybm0hm
+Log line format: [IWEF]mmdd hh:mm:ss.uuuuuu threadid file:line] msg
+I0625 15:32:11.533294 2019020 SipLocalConfig.cpp:105] localip:192.168.23.135,localport:11300,sipid:10000000002000000001,sipip:127.0.1,sipport:5061,sipRealm:1000000000
+I0625 15:32:11.533507 2019020 SipLocalConfig.cpp:108] num:1
+I0625 15:32:11.533566 2019020 SipLocalConfig.cpp:121] subNodeIp:127.0.1,subNodePort:7101,subNodePoto:0,subNodeAuth:1
+I0625 15:32:11.533619 2019020 ThreadPool.cpp:31] thread:139655620892224 was created
+I0625 15:32:11.533778 2019020 ThreadPool.cpp:31] thread:139655612499520 was created
+I0625 15:32:11.533864 2019020 ThreadPool.cpp:31] thread:139655604106816 was created
+I0625 15:32:11.533921 2019020 ThreadPool.cpp:31] thread:139655595714112 was created
+I0625 15:32:11.533967 2019020 ThreadPool.cpp:31] thread:139655587321408 was created
+I0625 15:32:11.534009 2019020 ThreadPool.cpp:31] thread:139655578928704 was created
+I0625 15:32:11.534055 2019020 ThreadPool.cpp:31] thread:139655570536000 was created
+I0625 15:32:11.534101 2019020 ThreadPool.cpp:31] thread:139655562143296 was created
+I0625 15:32:11.534145 2019020 ThreadPool.cpp:31] thread:139655553750592 was created
+I0625 15:32:11.534209 2019020 ThreadPool.cpp:31] thread:139655545357888 was created
+I0625 15:32:11.534224 2019020 main.cpp:79] Local Ip: 192.168.23.135
+I0625 15:32:11.534277 2019020 main.cpp:87] create thread pid:139655536965184
+I0625 15:32:11.534294 2019020 main.cpp:88] main thread pid:139655620896640
+I0625 15:32:11.534349 2019031 main.cpp:61] current thread id: 139655536965184
