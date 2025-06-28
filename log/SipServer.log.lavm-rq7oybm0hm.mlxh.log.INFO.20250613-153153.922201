@@ -1,6 +1,0 @@
-Log file created at: 2025/06/13 15:31:53
-Running on machine: lavm-rq7oybm0hm
-Log line format: [IWEF]mmdd hh:mm:ss.uuuuuu threadid file:line] msg
-I0613 15:31:53.675623 922201 main.cpp:56] hello world
-W0613 15:31:53.675861 922201 main.cpp:57] hello world warning
-E0613 15:31:53.675889 922201 main.cpp:58] hello world error

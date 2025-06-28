@@ -1,0 +1,22 @@
+Log file created at: 2025/06/28 17:12:41
+Running on machine: lavm-rq7oybm0hm
+Log line format: [IWEF]mmdd hh:mm:ss.uuuuuu threadid file:line] msg
+I0628 17:12:41.355710 2278710 SipLocalConfig.cpp:105] localip:127.0.1,localport:11300,sipid:10000000002000000001,sipip:127.0.1,sipport:5061,sipRealm:1000000000
+I0628 17:12:41.355968 2278710 SipLocalConfig.cpp:108] num:1
+I0628 17:12:41.356056 2278710 SipLocalConfig.cpp:121] subNodeIp:127.0.1,subNodePort:7101,subNodePoto:0,subNodeAuth:1
+I0628 17:12:41.356118 2278710 ThreadPool.cpp:31] thread:140593378637376 was created
+I0628 17:12:41.356156 2278710 ThreadPool.cpp:31] thread:140593370244672 was created
+I0628 17:12:41.356192 2278710 ThreadPool.cpp:31] thread:140593361851968 was created
+I0628 17:12:41.356237 2278710 ThreadPool.cpp:31] thread:140593353459264 was created
+I0628 17:12:41.356279 2278710 ThreadPool.cpp:31] thread:140593345066560 was created
+I0628 17:12:41.356324 2278710 ThreadPool.cpp:31] thread:140593336673856 was created
+I0628 17:12:41.356364 2278710 ThreadPool.cpp:31] thread:140593328281152 was created
+I0628 17:12:41.356422 2278710 ThreadPool.cpp:31] thread:140593319888448 was created
+I0628 17:12:41.356468 2278710 ThreadPool.cpp:31] thread:140593311495744 was created
+I0628 17:12:41.356523 2278710 ThreadPool.cpp:31] thread:140593303103040 was created
+E0628 17:12:41.356778 2278710 SipCore.cpp:134] start udp server faild,code: 120098
+E0628 17:12:41.356802 2278710 SipCore.cpp:92] init transport layer faild,code: 120098
+I0628 17:12:41.356835 2278710 main.cpp:79] Local Ip: 127.0.1
+I0628 17:12:41.356953 2278710 main.cpp:87] create thread pid:140593294710336
+I0628 17:12:41.356983 2278721 main.cpp:61] current thread id: 140593294710336
+I0628 17:12:41.357106 2278710 main.cpp:88] main thread pid:140593378641792

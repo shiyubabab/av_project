@@ -1,0 +1,22 @@
+Log file created at: 2025/06/28 16:23:13
+Running on machine: lavm-rq7oybm0hm
+Log line format: [IWEF]mmdd hh:mm:ss.uuuuuu threadid file:line] msg
+I0628 16:23:13.380236 2275580 SipLocalConfig.cpp:105] localip:127.0.1,localport:11300,sipid:10000000002000000001,sipip:127.0.1,sipport:5061,sipRealm:1000000000
+I0628 16:23:13.380484 2275580 SipLocalConfig.cpp:108] num:1
+I0628 16:23:13.380616 2275580 SipLocalConfig.cpp:121] subNodeIp:127.0.1,subNodePort:7101,subNodePoto:0,subNodeAuth:1
+I0628 16:23:13.380791 2275580 ThreadPool.cpp:31] thread:140391647639104 was created
+I0628 16:23:13.380853 2275580 ThreadPool.cpp:31] thread:140391639246400 was created
+I0628 16:23:13.380920 2275580 ThreadPool.cpp:31] thread:140391630853696 was created
+I0628 16:23:13.380973 2275580 ThreadPool.cpp:31] thread:140391622460992 was created
+I0628 16:23:13.381022 2275580 ThreadPool.cpp:31] thread:140391614068288 was created
+I0628 16:23:13.381109 2275580 ThreadPool.cpp:31] thread:140391605675584 was created
+I0628 16:23:13.381182 2275580 ThreadPool.cpp:31] thread:140391597282880 was created
+I0628 16:23:13.381242 2275580 ThreadPool.cpp:31] thread:140391588890176 was created
+I0628 16:23:13.381296 2275580 ThreadPool.cpp:31] thread:140391580497472 was created
+I0628 16:23:13.381335 2275580 ThreadPool.cpp:31] thread:140391572104768 was created
+I0628 16:23:13.382159 2275580 SipCore.cpp:144] sip tcp:5061 udp:5061 running
+I0628 16:23:13.382349 2275580 main.cpp:79] Local Ip: 127.0.1
+I0628 16:23:13.382498 2275580 main.cpp:87] create thread pid:140391554049600
+I0628 16:23:13.382527 2275592 main.cpp:61] current thread id: 140391554049600
+I0628 16:23:13.382540 2275580 main.cpp:88] main thread pid:140391647643520
+I0628 16:23:13.382694 2275591 SipCore.cpp:12] polling event thread start success

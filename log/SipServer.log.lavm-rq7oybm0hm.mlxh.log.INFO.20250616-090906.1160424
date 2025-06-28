@@ -1,7 +1,0 @@
-Log file created at: 2025/06/16 09:09:06
-Running on machine: lavm-rq7oybm0hm
-Log line format: [IWEF]mmdd hh:mm:ss.uuuuuu threadid file:line] msg
-I0616 09:09:06.344043 1160424 SipLocalConfig.cpp:104] localip:192.168.23.135,localport:11300,sipid:10000000002000000001,sipip:127.0.1,sipport:5061,sipRealm:1000000000
-I0616 09:09:06.344296 1160424 SipLocalConfig.cpp:107] num:1
-I0616 09:09:06.344374 1160424 SipLocalConfig.cpp:120] subNodeIp:127.0.1,subNodePort:7101,subNodePoto:0,subNodeAuth:1
-I0616 09:09:06.344386 1160424 main.cpp:73] Local Ip: 192.168.23.135
